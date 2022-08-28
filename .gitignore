@@ -1,3 +1,13 @@
 out/**
+# This file is unused.
 default.latex
+# cur.pdf will be the most recently exported post.
 cur.pdf
+# Include a few example exported PDFs/Markdown files.
+!out/2mhFMgtAjFJesaSYR*
+!out/6ccG9i5cTncebmhsH*
+!out/7Hr8t6xwuuxBTqADK*
+!out/8fpzBHt7e6n7Qjoo9*
+!out/AyNHoTWWAJ5eb99ji*
+!out/BxersHYN2qcFoonwg*
+!out/fM5ZWGDbnjb7ThNKJ*
