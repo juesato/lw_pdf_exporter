@@ -1,0 +1,6 @@
+
+* Add support for Unicode esp. greek characters (TPan9sQFuPP6jgEJo)
+* LW wrong where Markdown doesn't have literal asterisks escaped, can cause italicization issues (TPan9sQFuPP6jgEJo)
+* Add support for Unicode, incl checkmarks (BxersHYN2qcFoonwg)
+
+* This tool works quite well: https://euangoddard.github.io/clipboard2markdown/
